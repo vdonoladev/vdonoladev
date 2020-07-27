@@ -6,7 +6,7 @@ I am passionate about learning. I am always open to new challenges and ready to 
 
 🇧🇷 Born and living in Carangola - Minas Gerais <br>
 
-#### 🧠 "Eu não quero acreditar, quero saber!" - Carl Sagan 🧠 <br>
+#### 🧠 "Eu não quero acreditar, quero saber." - Carl Sagan 🧠 <br>
 
 ### Find me elsewhere 
 
