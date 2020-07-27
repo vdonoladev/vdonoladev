@@ -1,6 +1,6 @@
 ### Hey, I'm Víctor Donola Ferreira! 👋🏻
 
-I'm an aspiring Full-Stack Developer. 👨🏻‍💻 <br>
+👨🏻‍💻 I'm an aspiring Full-Stack Developer. <br>
 
 I am passionate about learning. I am always open to new challenges and ready to face changes. <br>
 
