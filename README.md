@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Víctor Donola Ferreira! 👋🏻
 
-<!--
-**vdonoladev/vdonoladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Full-Stack Developer. 👨🏻‍💻 <br>
 
-Here are some ideas to get you started:
+I am passionate about learning. I am always open to new challenges and ready to face changes. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇧🇷 Born and living in Carangola - Minas Gerais <br>
+
+#### 🧠 "Eu não quero acreditar, quero saber!" - Carl Sagan 🧠 <br>
+
+### Find me elsewhere 
+
+🚀 [Blog](https://blogvdonoladev.wordpress.com) <br>
+🐦 [Twitter](https://twitter.com/vdonoladev) <br>
+📸 [Instagram](instagram.com/vdonoladev) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/vdonoladev/) <br>
