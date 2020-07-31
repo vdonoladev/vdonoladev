@@ -12,5 +12,5 @@ I am passionate about learning. I am always open to new challenges and ready to 
 
 🚀 [Blog](https://blogvdonoladev.wordpress.com) <br>
 🐦 [Twitter](https://twitter.com/vdonoladev) <br>
-📸 [Instagram](instagram.com/vdonoladev) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/vdonoladev/) <br>
+📸 [Instagram](https://www.instagram.com/vdonoladev) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/vdonoladev) <br>
