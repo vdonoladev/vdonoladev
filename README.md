@@ -12,5 +12,7 @@ I am passionate about learning. I am always open to new challenges and ready to 
 
 🚀 [Blog](https://blogvdonoladev.wordpress.com) <br>
 🐦 [Twitter](https://twitter.com/vdonoladev) <br>
-📸 [Instagram](https://www.instagram.com/vdonoladev) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/vdonoladev) <br>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vdonoladev)](https://github.com/vdonoladev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vdonoladev/)](https://www.linkedin.com/in/vdonoladev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vdonoladev@gmail.com)](mailto:contato.vdonoladev@gmail.com)
