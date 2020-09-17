@@ -4,8 +4,6 @@
 
 Eu sou apaixonado por aprender. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças. <br>
 
-🇧🇷 Nasci e morando em Carangola - Minas Gerais <br>
-
 #### 🧠 "A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais." - Aristóteles 🧠 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vdonoladev/)](https://www.linkedin.com/in/vdonoladev/)
