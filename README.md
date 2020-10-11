@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Sou um aspirante a desenvolvedor Full-Stack. <br>
 
-Eu sou apaixonado por aprender. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças. <br>
+Sou apaixonado por aprender. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças. <br>
 
 #### 🧠 "A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais." - Aristóteles 🧠 <br>
 
