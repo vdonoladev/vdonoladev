@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Víctor Donola Ferreira</h1>  
-<h3 align="center">A passionate frontend developer from Angra dos Reis, RJ - Brazil</h3>  
-  
-- 🌱 I’m currently learning **PHP**  
-  
-- 📫 How to reach me **contato.vdonoladev@gmail.com**  
-  
-- ⚡ Fun fact **I'm a clown**  
-  
+<h3 align="center">Web developer and passionate about technologies like Javascript.</h3>
+
+- 🔭 Currently, I am working on projects with HTML, CSS, Javascript and React.
+
+- 🌱 I am currently learning Javascript simultaneously with React.
+
+- 👯 I am looking for projects that mainly involve these four technologies.
+
+- 💬 Ask me about: Front-End Development and Technology.
+
+- ⚡ Curious about: Technology and Science
+
+- 📫 How to reach me **contato.vdonoladev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://codepen.io/vdonoladev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vdonoladev" height="30" width="40" /></a>  
