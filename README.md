@@ -1,4 +1,4 @@
-<h1 align="left">Olá! 👋</h1>  
+<h2 align="left">Olá! 👋</h2>  
 
 <p align="left">
 	Meu nome é Víctor Donola Ferreira, sou <strong>desenvolvedor Front-End</strong> e <strong>estudante apaixonado por Back-End</strong>.
