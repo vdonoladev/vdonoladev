@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Estou cursando (nada, no momento), mas minha dedicação é direcionada para a Ciência da Computação.
 
-- 📫 Entre em contato: **contato.vdonoladev@gmail.com**
+- 📫 &nbsp; Entre em contato: **contato.vdonoladev@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>  
 <p align="left">
