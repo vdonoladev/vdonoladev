@@ -8,6 +8,6 @@
 
 - :books: &nbsp; Tecnologia e Ciência são os meus assuntos favoritos.
 
-- 🎓 &nbsp; Estou cursando (nada, no momento), mas minha dedicação é direcionada para a Ciência da Computação.
+- 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Ciência da Computação.
 
 - 📫 &nbsp; Entre em contato: **contato.vdonoladev@gmail.com**
