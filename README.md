@@ -11,3 +11,6 @@
 - 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Ciência da Computação.
 
 - 📫 &nbsp; Entre em contato: **contato.vdonoladev@gmail.com**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
