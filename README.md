@@ -12,5 +12,7 @@
 
 - 📫 &nbsp; Entre em contato: **contato.vdonoladev@gmail.com**
 
+
+📊 **Esta semana gastei meu tempo em:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
