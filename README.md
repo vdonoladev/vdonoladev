@@ -27,3 +27,7 @@ PHP          30 mins         █▓░░░░░░░░░░░░░░░
 Se você gosta do que eu faço, talvez considere me comprar um café 🥺👉🏻👈🏻
 
 <a href="https://www.buymeacoffee.com/xuxuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
