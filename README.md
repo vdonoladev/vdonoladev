@@ -1,19 +1,20 @@
-<h2 align="left">Olá! 👋🏻</h2>  
+<h2 align="left">Hi! 👋🏻</h2>  
 
 <p align="left">
-	Meu nome é Víctor Donola Ferreira, sou <strong>desenvolvedor Front-End</strong> e <strong>estudante apaixonado por Back-End</strong>.
+	My name is Victor Donola Ferreira, I'm a <strong>Front-End developer</strong> and <strong>passionate student of Back-End</strong>.
 </p>
 
-- 🔭 &nbsp; Atualmente, estou estudando e trabalhando em projetos com HTML, CSS e JavaScript.
+- 🔭 &nbsp; Currently, I am studying and working on projects with HTML, CSS and JavaScript.
 
-- :books: &nbsp; Tecnologia e Ciência são os meus assuntos favoritos.
+- :books: &nbsp; Technology and Science are my favorite subjects.
 
-- 🎓 &nbsp; Estou cursando (nada-no-momento), mas minha dedicação é direcionada para a Ciência da Computação.
+- 🎓 &nbsp; I am studying (nothing at the moment), but my dedication is directed towards Computer Science.
 
-- 📫 &nbsp; Entre em contato: **contato.vdonoladev@gmail.com**
+- 📫 &nbsp; How to reach me: **contato.vdonoladev@gmail.com**
 
+- ⚡️ &nbsp; Fun fact: I love cats ❤️🐱
 
-📊 **Esta semana gastei meu tempo em:**
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 % 
@@ -24,7 +25,7 @@ PHP          30 mins         █▓░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-Se você gosta do que eu faço, talvez considere me comprar um café 🥺👉🏻👈🏻
+If you like what I do, maybe consider buying me a coffee 🥺👉🏻👈🏻
 
 <a href="https://www.buymeacoffee.com/xuxuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
