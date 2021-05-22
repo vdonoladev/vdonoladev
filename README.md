@@ -14,13 +14,6 @@
 
 - ⚡️ &nbsp; Fun fact: I love cats ❤️🐱
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 If you like what I do, maybe consider buying me a coffee 🥺👉🏻👈🏻
 
 <a href="https://www.buymeacoffee.com/xuxuti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
