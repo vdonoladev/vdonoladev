@@ -1,19 +1,19 @@
 <h2 align="left">Hi! 👋🏻</h2>  
 
 <p align="left">
-	My name is Victor Donola Ferreira, I'm a <strong>Front-End developer</strong> and <strong>passionate student of Back-End</strong>.
+	Meu nome é Victor Donola Ferreira, sou <strong>desenvolvedor FrontEnd</strong> e <strong>um estudante apaixonado por BackEnd</strong>.
 </p>
 
-- 🔭 &nbsp; Currently, I am studying and working on projects with HTML, CSS and JavaScript.
+- 🔭 &nbsp; Atualmente, estou estudando e trabalhando em projetos com HTML, CSS e JavaScript.
 
-- :books: &nbsp; Technology and Science are my favorite subjects.
+- :books: &nbsp; Tecnologia e ciência são meus assuntos favoritos.
 
-- 🎓 &nbsp; I am studying (nothing at the moment), but my dedication is directed towards Computer Science.
+- 🎓 &nbsp; Estou estudando (nada no momento), mas minha dedicação está voltada para a Ciência da Computação.
 
-- 📫 &nbsp; How to reach me: **contato.vdonoladev@gmail.com**
+- 📫 &nbsp; Como entrar em contato comigo: **contato.vdonoladev@gmail.com**
 
-- ⚡️ &nbsp; Fun fact: I love cats ❤️🐱
+- ⚡️ &nbsp; Curiosidade: eu amo gatos ❤️🐱
 
-If you like what I do, maybe consider buying me a coffee 🥺👉🏻👈🏻
+Se você gosta do que eu faço, considere me comprar um café 🥺👉🏻👈🏻
 
 <a href="https://www.buymeacoffee.com/vdonoladev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
