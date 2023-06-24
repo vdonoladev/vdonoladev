@@ -17,3 +17,9 @@
 Se você gosta do que eu faço, considere me comprar um café 🥺👉🏻👈🏻
 
 <a href="https://www.buymeacoffee.com/vdonoladev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br>
+
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+![GitHub Snake Light](https://github.com/vdonoladev/vdonoladev/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/vdonoladev/vdonoladev/blob/output/github-snake-dark.svg#gh-dark-mode-only)
