@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Estou estudando (nada no momento), mas minha dedicação está voltada para a Ciência da Computação.
 
-- 📫 &nbsp; Como entrar em contato comigo: **contato.vdonoladev@gmail.com**
+- 📫 &nbsp; Como entrar em contato comigo: **contato.victordonolaferreira@outlook.com**
 
 - ⚡️ &nbsp; Curiosidade: eu amo gatos ❤️🐱
 
