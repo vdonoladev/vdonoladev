@@ -8,7 +8,7 @@
 
 - :books: &nbsp; Tecnologia e ciência são meus assuntos favoritos.
 
-- 🎓 &nbsp; Estou estudando (nada no momento), mas minha dedicação está voltada para a Ciência da Computação.
+- 🎓 &nbsp; Estou estudando (nada no momento), mas minha dedicação está voltada para a Engenharia de Software.
 
 - 📫 &nbsp; Como entrar em contato comigo: **contato.victordonolaferreira@outlook.com**
 
