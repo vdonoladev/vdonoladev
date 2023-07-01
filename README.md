@@ -10,8 +10,6 @@
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, estou aqui para ajudar.
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>. -->
 
-<br>
-
 <h3> 🚀 &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -45,8 +43,6 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=007ACC)
-
-<br/>
 
 <h3> 🌎 &nbsp;Onde me encontrar: </h3>
 
