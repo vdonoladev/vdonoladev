@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="https://estacio.br/">Estácio de Sá</a>.
-- 📝 &nbsp; Escrevo alguns artigos <a href="https://vdonoladev.com.br">aqui</a>.
+- 📝 &nbsp; Escrevo alguns artigos <a href="https://vdonoladev.hashnode.dev/">aqui</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript e NodeJS**.
 - 📚 &nbsp; Concluindo o **Certificado Profissional de Suporte em TI** na <a href="https://www.coursera.org/">Coursera</a>.
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, estou aqui para ajudar.
