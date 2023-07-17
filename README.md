@@ -49,10 +49,3 @@
 [![Linkedin: Víctor Donola Ferreira](https://img.shields.io/badge/-vdonoladev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vdonoladev/)](https://www.linkedin.com/in/vdonoladev/)
 [![Gmail Badge](https://img.shields.io/badge/-contato.victordonolaferreira@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.victordonolaferreira@outlook.com)](mailto:contato.victordonolaferreira@outlook.com)
 [![GitHub Víctor Donola Ferreira](https://img.shields.io/github/followers/vdonoladev?label=follow&style=social)](https://github.com/vdonoladev)
-
-<br>
-
-<!-- Snake contributions graph https://github.com/Platane/snk -->
-
-![GitHub Snake Light](https://github.com/vdonoladev/vdonoladev/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/vdonoladev/vdonoladev/blob/output/github-snake-dark.svg#gh-dark-mode-only)
