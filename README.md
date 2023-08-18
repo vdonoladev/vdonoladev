@@ -10,6 +10,8 @@
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, estou aqui para ajudar.
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>. -->
 
+<!--
+
 <h3> 🚀 &nbsp;Minhas Skills </h3>
 
 **Linguagens de Programação**
@@ -107,3 +109,5 @@
 [![Linkedin: Víctor Donola Ferreira](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vdonoladev/)](https://www.linkedin.com/in/vdonoladev/)
 [![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:contato.victordonolaferreira@outlook.com)](mailto:contato.victordonolaferreira@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/vdonoladev)](https://instagram.com/vdonoladev)
+
+-->
