@@ -5,4 +5,4 @@
 - 🌱 Aprendendo mais sobre **JavaScript e NodeJS**.
 - 📝 Escrevo alguns artigos [aqui](https://medium.com/vdonoladev).
 - 💬 Pergunte-me sobre qualquer coisa, estou aqui para ajudar.
-<!-- - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na [EMPRESA](LINK DA EMPRESA). -->
+- 💼 Trabalhando como **Auxiliar Administrativo** no [Bramil Supermercados](https://bramil.com.br).
