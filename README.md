@@ -21,7 +21,7 @@ const vdonoladev = {
     links: {
         website: "https://vdonoladev.vercel.app",
         linkedin: "https://www.linkedin.com/in/vdonoladev",
-        blog: "https://medium.com/@vdonoladev"
+        blog: "https://medium.com/@vdonoladev",
         github: "https://github.com/vdonoladev",
         codepen: "https://codepen.io/vdonoladev",
         gist: "https://gist.github.com/vdonoladev",
