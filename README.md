@@ -1,9 +1,3 @@
-### 📫 Gostaria de me conhecer?
-
-Agende um horário para conversarmos sobre o que você mais gosta — mas lembre-se de incluir o tema da conversa.
-
-<a href="https://calendly.com/vdonoladev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 ```javascript
 const vdonoladev = {
     pronouns: ["He", "Him"],
