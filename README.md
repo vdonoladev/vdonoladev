@@ -1,7 +1,26 @@
-### 👨🏻 Sobre mim
-
-- 🤔 Apaixonado por explorar novas tecnologias que otimizem a gestão administrativa e processos organizacionais.
-- 🎓 Cursando **Administração** na [Estácio de Sá](https://estacio.br) e sempre em busca de aprimorar minhas habilidades para implementar melhorias e eficiência no setor.
-- 🌱 Em constante aprendizado sobre **Administração**, focado em desenvolver uma visão analítica e estratégica para o sucesso empresarial.
-- 📝 Compartilho alguns artigos e insights [aqui](https://vdonoladev.github.io/) sobre administração e tecnologia.
-- 💬 Sempre aberto para responder dúvidas e trocar conhecimentos sobre Administração e TI!
+```javascript
+const vdonoladev = {
+    pronouns: ["He", "Him"],
+    code: ["JavaScript", "Python"],
+    askMeAbout: ["web dev", "AI", "administration", "finances"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+        },
+        backEnd: {
+            js: ["Node.js"],
+            python: ["Flask"],
+        },
+        devOps: ["Docker 🐳", "GitHub Actions"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+        generativeAI: ["GPT"],
+    },
+    currentFocus: "Developing high-quality websites",
+    funFact: "I once debugged a website while riding a bike (don’t try this at home!)",
+};
+```
