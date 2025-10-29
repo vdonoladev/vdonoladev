@@ -71,3 +71,40 @@ const vdonoladev = {
 - [7 dicas essenciais para quem está começando a programar](https://medium.com/@vdonoladev/7-dicas-essenciais-para-quem-est%C3%A1-come%C3%A7ando-a-programar-e385c52ead83?source=rss-54ea4ec5ae6------2)
 - [Os três caminhos da vida espiritual: qual escolher?](https://medium.com/@vdonoladev/os-tr%C3%AAs-caminhos-da-vida-espiritual-qual-escolher-a0ce5279c3c8?source=rss-54ea4ec5ae6------2)
 <!-- BLOG-POST-LIST:END -->
+
+###
+
+<details>
+
+<summary>🔗 &nbsp;<b>My Projects</b></summary>
+<br>
+
+Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou **liberando outros antigos** e, conforme **novos projetos forem surgindo**, também **os disponibilizarei aqui**. 🚀
+
+#### 🌐 Portfólios
+- [drewStudio](https://drewstudio-vdonoladev.vercel.app/)
+- [myPortfolio](https://vdonoladev.vercel.app/)
+- [SpotlightPortfolio](https://spotlight-portfolio-vdonoladev.vercel.app/)
+- [portfolioDev](https://portfoliodev-vdonoladev.vercel.app/)
+
+#### 💻 Aplicações e Landing Pages
+- [BookSaaS](https://booksaas-vdonoladev.vercel.app/)
+- [InsuranceFirm](https://insurancefirm.vercel.app/)
+- [linkfree](https://mylinkfree.vercel.app/)
+- [quizCatolico](https://quiz-catolico.vercel.app/)
+- [food](https://food-vdonoladev.netlify.app/)
+- [paint](https://vdonoladev-paint.netlify.app/)
+- [geradorDeSenhas](https://gerador-de-senhas-vdonoladev.netlify.app/)
+- [regraDeTrês](https://calculadora-regra-de-tres-vdonoladev.netlify.app/)
+- [tempTrack](https://temptrack-vdonoladev.netlify.app/)
+- [scroll-animations](https://vdonoladev-scrollanimations.netlify.app/)
+- [agênciaBRN](https://vdonoladev-portfolio-agencia.netlify.app/)
+- [devBarber](https://vdonoladev-landingpagebarber.netlify.app/)
+- [Tom's Jazz School](https://vdonoladev-landingpagemusic.netlify.app/)
+- [Habits](https://vdonoladev-habits.netlify.app/)
+- [Controle de Finanças](https://vdonoladev-controlefinancas.netlify.app/)
+- [Calculadora de Gorjetas](https://calculadoradegorjetas-vdonoladev.netlify.app/)
+
+Feito por **[vdonoladev](https://vdonoladev.vercel.app/)** 🚀 
+
+</details>
