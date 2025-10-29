@@ -28,6 +28,10 @@ const vdonoladev = {
 ```
 
 <div align="center">
+<a href="https://vdonoladev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Meu%20Site-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="Víctor Donola logo" />
+  
+</a>
 <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo" />
 </a>
