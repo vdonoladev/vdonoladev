@@ -90,7 +90,6 @@ Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou 
 #### 💻 Aplicações e Landing Pages
 - [c6Bank](https://c6bank-vdonoladev.vercel.app/)
 - [travelSite](https://travelsite-vdonoladev.netlify.app/)
-- [drewStudio](http://drewstudio-vdonoladev.vercel.app/)
 - [Tutor](https://tutor-vdonoladev.vercel.app/)
 - [BookSaaS](https://booksaas-vdonoladev.vercel.app/)
 - [InsuranceFirm](https://insurancefirm.vercel.app/)
