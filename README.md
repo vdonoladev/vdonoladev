@@ -88,6 +88,9 @@ Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou 
 - [portfolioDev](https://portfoliodev-vdonoladev.vercel.app/)
 
 #### 💻 Aplicações e Landing Pages
+- [LinkTree](https://linktree-vdonoladev.netlify.app/)
+- [Receitas](https://vdonoladev-receitas.netlify.app/)
+- [Pomodoro](https://vdonoladev-pomodoro.netlify.app/)
 - [c6Bank](https://c6bank-vdonoladev.vercel.app/)
 - [travelSite](https://travelsite-vdonoladev.netlify.app/)
 - [Tutor](https://tutor-vdonoladev.vercel.app/)
