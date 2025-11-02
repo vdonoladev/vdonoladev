@@ -107,6 +107,7 @@ Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou 
 - [scroll-animations](https://vdonoladev-scrollanimations.netlify.app/)
 - [agênciaBRN](https://vdonoladev-portfolio-agencia.netlify.app/)
 - [devBarber](https://vdonoladev-landingpagebarber.netlify.app/)
+- [Business-Card](https://businesscard-vdonoladev.netlify.app/)
 - [Tom's Jazz School](https://vdonoladev-landingpagemusic.netlify.app/)
 - [Habits](https://vdonoladev-habits.netlify.app/)
 - [Controle de Finanças](https://vdonoladev-controlefinancas.netlify.app/)
