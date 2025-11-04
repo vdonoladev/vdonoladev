@@ -29,7 +29,7 @@ const vdonoladev = {
 
 <div align="center">
 <a href="https://vdonoladev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Meu%20Site-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="Víctor Donola logo" />
+  <img src="https://img.shields.io/badge/-Meu%20Site-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="website logo" />
   
 </a>
 <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
