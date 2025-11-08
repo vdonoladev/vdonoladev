@@ -6,24 +6,27 @@
 
 ```javascript
 const vdonoladev = {
-    pronouns: ["He", "Him"],
-    code: ["JavaScript", "Python"],
-    askMeAbout: ["web dev", "administration", "finances", "AI"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"],
-        },
-        backEnd: {
-            js: ["Node.js"],
-            python: ["Flask"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"],
-        generativeAI: ["GPT"],
+  code: ["JavaScript", "Python"],
+  askMeAbout: ["web development", "administration", "finances", "AI"],
+  education: [
+    "Technologist in Systems Analysis and Development (in progress)",
+    "Bachelor's Degree in Business Administration (in progress)",
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Bootstrap"],
     },
-    currentFocus: "Developing high-quality websites",
-    funFact: "I once debugged a website while riding a bike (don’t try this at home!)",
+    backEnd: {
+      js: ["Node.js"],
+      python: ["Flask"],
+    },
+    databases: ["PostgreSQL", "MongoDB", "SQLite"],
+    misc: ["Socket.IO", "REST APIs", "WebSockets"],
+    generativeAI: ["GPT"],
+  },
+  currentFocus: "Developing high-quality websites",
+  funFact: "I once debugged a website while riding a bike (not recommended!)",
 };
 ```
 
