@@ -32,7 +32,7 @@ const vdonoladev = {
 
 <div align="center">
 <a href="https://vdonoladev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Meu%20Site-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="website logo" />
+  <img src="https://img.shields.io/badge/-Meu%20Portfolio-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="website logo" />
   
 </a>
 <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
@@ -43,8 +43,8 @@ const vdonoladev = {
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="microsoft-outlook logo" />
 </a>
 
-<a href="https://medium.com/@vdonoladev" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="medium logo" />
+<a href="https://vdonoladev.github.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Meu%20Blog&logo=pencil&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="blog logo" />
 </a>
 
 <a href="https://instagram.com/vdonoladev" target="_blank">
