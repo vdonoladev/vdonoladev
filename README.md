@@ -31,38 +31,48 @@ const vdonoladev = {
 ```
 
 <div align="center">
-<a href="https://vdonoladev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Meu%20Portfolio-020618?style=for-the-badge&logo=https://raw.githubusercontent.com/vdonoladev/vdonoladev/master/public/logo.png&logoColor=white" height="49" alt="website logo" />
-  
-</a>
-<a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo" />
-</a>
+  <!-- Portfolio -->
+  <a href="https://vdonoladev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Meu%20Portfolio-020618?style=for-the-badge&logo=google-chrome&logoColor=white" height="49" alt="Portfolio" />
+  </a>
 
-<a href="mailto:contato.victordonolaferreira@outlook.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="microsoft-outlook logo" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="49" alt="LinkedIn" />
+  </a>
 
-<a href="https://vdonoladev.github.io/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Meu%20Blog&logo=pencil&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="blog logo" />
-</a>
+  <!-- Outlook -->
+  <a href="mailto:contato.victordonolaferreira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="49" alt="Outlook" />
+  </a>
 
-<a href="https://instagram.com/vdonoladev" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="instagram logo" />
-</a>
+  <!-- Blog -->
+  <a href="https://vdonoladev.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-12100E?style=for-the-badge&logo=blogger&logoColor=white" height="49" alt="Blog" />
+  </a>
 
-<a href="https://wa.me/5524998652938" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="whatsapp logo" />
-</a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/vdonoladev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
+  </a>
 
-<a href="https://codepen.io/vdonoladev" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="codepen logo" />
-</a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5524998652938" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="49" alt="WhatsApp" />
+  </a>
 
-<a href="https://gist.github.com/vdonoladev" target="_blank">
-  <img src="https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white" height="49" alt="gist logo" />
-</a>
+  <!-- Codepen -->
+  <a href="https://codepen.io/vdonoladev" target="_blank">
+    <img src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="49" alt="Codepen" />
+  </a>
+
+  <!-- Gist -->
+  <a href="https://gist.github.com/vdonoladev" target="_blank">
+    <img src="https://img.shields.io/badge/-Gist-100000?style=for-the-badge&logo=github&logoColor=white" height="49" alt="Gist" />
+  </a>
 </div>
+
+
 
 ###
 
