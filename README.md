@@ -101,6 +101,7 @@ Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou 
 - [portfolioDev](https://portfoliodev-vdonoladev.vercel.app/)
 
 #### 💻 Aplicações e Landing Pages
+- [Aparatus](https://aparatus-nine.vercel.app/)
 - [dev.finance$](https://vdonoladev-devfinances.netlify.app/)
 - [LinkTree](https://linktree-vdonoladev.netlify.app/)
 - [Receitas](https://vdonoladev-receitas.netlify.app/)
