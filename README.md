@@ -33,36 +33,30 @@ const vdonoladev = {
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="49" alt="LinkedIn" />
-  </a>
-
-  <!-- Outlook -->
-  <a href="mailto:contato.victordonolaferreira@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="49" alt="Outlook" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="49" alt="LinkedIn" />
   </a>
 
   <!-- Blog -->
   <a href="https://vdonoladev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Blog-12100E?style=for-the-badge&logo=blogger&logoColor=white" height="49" alt="Blog" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" height="49" alt="Blog" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/vdonoladev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
+  <!-- Outlook -->
+  <a href="mailto:contato.victordonolaferreira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="49" alt="Outlook" />
   </a>
 
   <!-- Codepen -->
   <a href="https://codepen.io/vdonoladev" target="_blank">
-    <img src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="49" alt="Codepen" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="49" alt="Codepen" />
   </a>
 
-  <!-- Gist -->
-  <a href="https://gist.github.com/vdonoladev" target="_blank">
-    <img src="https://img.shields.io/badge/-Gist-100000?style=for-the-badge&logo=github&logoColor=white" height="49" alt="Gist" />
+  <!-- Instagram -->
+  <a href="https://instagram.com/vdonoladev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
   </a>
+
 </div>
-
-
 
 ###
 
