@@ -31,11 +31,6 @@ const vdonoladev = {
 ```
 
 <div align="center">
-  <!-- Portfolio -->
-  <a href="https://vdonoladev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu%20Portfolio-020618?style=for-the-badge&logo=google-chrome&logoColor=white" height="49" alt="Portfolio" />
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="49" alt="LinkedIn" />
@@ -54,11 +49,6 @@ const vdonoladev = {
   <!-- Instagram -->
   <a href="https://instagram.com/vdonoladev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5524998652938" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="49" alt="WhatsApp" />
   </a>
 
   <!-- Codepen -->
