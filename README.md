@@ -56,6 +56,11 @@ const vdonoladev = {
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
   </a>
 
+  <!-- Threads -->
+  <a href="https://www.threads.net/@vdonoladev" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white">
+  </a>
+
 </div>
 
 ###
