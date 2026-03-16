@@ -6,27 +6,19 @@
 
 ```javascript
 const vdonoladev = {
-  code: ["JavaScript", "Python"],
-  askMeAbout: ["web development", "administration", "finances", "AI"],
+  code: ["JavaScript", "Python", "Go", "PHP"],
+  askMeAbout: ["desenvolvimento web", "administração", "finanças", "inteligência artificial"],
   education: [
-    "Technologist in Systems Analysis and Development (in progress)",
-    "Bachelor's Degree in Business Administration (in progress)",
+    "Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)",
+    "Bacharelado em Administração (em andamento)",
   ],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap"],
-    },
-    backEnd: {
-      js: ["Node.js"],
-      python: ["Flask"],
-    },
-    databases: ["PostgreSQL", "MongoDB", "SQLite"],
-    misc: ["Socket.IO", "REST APIs", "WebSockets"],
-    generativeAI: ["GPT"],
-  },
-  currentFocus: "Developing high-quality websites",
-  funFact: "I once debugged a website while riding a bike (not recommended!)",
+  knowledge: ["HTML", "CSS", "JavaScript", "Python"],
+  studying: ["Go", "PHP", "Python (aprofundando os estudos)"],
+  generativeAI: ["GPT", "Claude"],
+  currentFocus:
+    "Estudando para aprimorar minhas habilidades e migrar definitivamente para a área de desenvolvimento",
+  funFact:
+    "Já passei horas tentando resolver um bug que no final era apenas um ponto e vírgula faltando — desde então aprendi que pequenos detalhes podem quebrar grandes sistemas.",
 };
 ```
 
