@@ -61,9 +61,9 @@ const vdonoladev = {
 <!-- BLOG-POST-LIST:START -->
 - [Facilitando a vida no terminal com aliases](https://medium.com/@vdonoladev/facilitando-a-vida-no-terminal-com-aliases-e02710635fbe?source=rss-54ea4ec5ae6------2)
 - [O básico bem feito vence tudo](https://medium.com/@vdonoladev/o-b%C3%A1sico-bem-feito-vence-tudo-b5bc6b727b6a?source=rss-54ea4ec5ae6------2)
+- [Como estou me virando nos estudos para tirar a CPA-20](https://medium.com/@vdonoladev/como-estou-me-virando-nos-estudos-para-tirar-a-cpa-20-fa3458c685f9?source=rss-54ea4ec5ae6------2)
 - [3 conselhos sobre a oração que mudaram a minha rotina](https://medium.com/@vdonoladev/3-conselhos-sobre-a-ora%C3%A7%C3%A3o-que-mudaram-a-minha-rotina-5c38be6e7288?source=rss-54ea4ec5ae6------2)
 - [9 hábitos que estão sabotando sua produtividade](https://medium.com/@vdonoladev/9-h%C3%A1bitos-que-est%C3%A3o-sabotando-sua-produtividade-5380e9a6a3c7?source=rss-54ea4ec5ae6------2)
-- [7 dicas essenciais para quem está começando a programar](https://medium.com/@vdonoladev/7-dicas-essenciais-para-quem-est%C3%A1-come%C3%A7ando-a-programar-e385c52ead83?source=rss-54ea4ec5ae6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
