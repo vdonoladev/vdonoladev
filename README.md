@@ -59,11 +59,11 @@ const vdonoladev = {
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Entre planilhas e códigos: construindo meu caminho entre Administração e Desenvolvimento](https://medium.com/@vdonoladev/entre-planilhas-e-c%C3%B3digos-construindo-meu-caminho-entre-administra%C3%A7%C3%A3o-e-desenvolvimento-cb84cc3eeafc?source=rss-54ea4ec5ae6------2)
 - [Facilitando a vida no terminal com aliases](https://medium.com/@vdonoladev/facilitando-a-vida-no-terminal-com-aliases-e02710635fbe?source=rss-54ea4ec5ae6------2)
 - [O básico bem feito vence tudo](https://medium.com/@vdonoladev/o-b%C3%A1sico-bem-feito-vence-tudo-b5bc6b727b6a?source=rss-54ea4ec5ae6------2)
-- [Como estou me virando nos estudos para tirar a CPA-20](https://medium.com/@vdonoladev/como-estou-me-virando-nos-estudos-para-tirar-a-cpa-20-fa3458c685f9?source=rss-54ea4ec5ae6------2)
-- [3 conselhos sobre a oração que mudaram a minha rotina](https://medium.com/@vdonoladev/3-conselhos-sobre-a-ora%C3%A7%C3%A3o-que-mudaram-a-minha-rotina-5c38be6e7288?source=rss-54ea4ec5ae6------2)
-- [9 hábitos que estão sabotando sua produtividade](https://medium.com/@vdonoladev/9-h%C3%A1bitos-que-est%C3%A3o-sabotando-sua-produtividade-5380e9a6a3c7?source=rss-54ea4ec5ae6------2)
+- [Dies Irae, o canto que encara a eternidade de frente](https://medium.com/@vdonoladev/dies-irae-o-canto-que-encara-a-eternidade-de-frente-e56f00bedb54?source=rss-54ea4ec5ae6------2)
+- [O peso dos nossos erros e a cruz que carregamos](https://medium.com/@vdonoladev/o-peso-dos-nossos-erros-e-a-cruz-que-carregamos-3a0532cce0a7?source=rss-54ea4ec5ae6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
