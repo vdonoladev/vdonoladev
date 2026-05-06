@@ -29,7 +29,7 @@ const vdonoladev = {
   </a>
 
   <!-- Blog -->
-  <a href="https://vdonoladev.github.io/" target="_blank">
+  <a href="https://vdonoladev.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" height="49" alt="Blog" />
   </a>
 
@@ -46,11 +46,6 @@ const vdonoladev = {
   <!-- Instagram -->
   <a href="https://instagram.com/vdonoladev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="49" alt="Instagram" />
-  </a>
-
-  <!-- Threads -->
-  <a href="https://www.threads.net/@vdonoladev" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white">
   </a>
 
 </div>
@@ -109,6 +104,6 @@ Esses são os **projetos que estão disponíveis atualmente**. Com o tempo, vou 
 - [Controle de Finanças](https://vdonoladev-controlefinancas.netlify.app/)
 - [Calculadora de Gorjetas](https://calculadoradegorjetas-vdonoladev.netlify.app/)
 
-Feito por **[vdonoladev](https://vdonoladev.vercel.app/)** 🚀 
+Feito por **[vdonoladev](https://vdonoladev.com.br/)** 🚀 
 
 </details>
